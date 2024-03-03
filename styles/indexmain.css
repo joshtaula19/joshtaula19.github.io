@@ -14,3 +14,10 @@ h1 {
     text-align: center;
     background-color: white;
 }
+
+div {
+    width: 300px; 
+    border: 15px white; 
+    padding: 50px; 
+    margin: 20px; 
+}
