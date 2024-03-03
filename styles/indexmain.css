@@ -13,7 +13,7 @@ h1 {
 }
 
 .brown-background {
-    background-color: #5c4e41;
+    background-color: #9b836d;
     padding: 25px 25px; 
 }
 
@@ -44,4 +44,10 @@ ul {
     color: black; 
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;     
+}
+
+.btn-te-houtaewa {
+    display: inline-block; 
+    text-decoration: none; 
+
 }
