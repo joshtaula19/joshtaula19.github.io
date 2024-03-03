@@ -8,6 +8,7 @@ h1 {
     font-style: italic; 
     text-align: center;
     background-color:  #f5f5dc;
+    text-shadow: 2px 2px;
 }
 
 p {
@@ -15,4 +16,11 @@ p {
     font-style: bold; 
     text-align: center; 
     background-color: white; 
+}
+
+.white-background {
+    background-color: white;
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    width: 2000; 
 }
