@@ -65,6 +65,8 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
     font-size: 20pt; 
+    background-color: #f5f5dc;
+    padding: 600px 0px 600px 0px;
 }
 
 ul {
@@ -88,7 +90,8 @@ ul {
     padding-bottom: var(--space-md);
     padding-left: var(--space-base); 
     padding-right: var(--space-base);
-    color: black;
+    color: white;
+    text-shadow: 5px 5px 5px #f5f5dc;
 }
 
 .btn-outline {
@@ -100,4 +103,13 @@ ul {
     background-color: #9b836d;
     padding: 400px 0px 400px 0px; 
     text-align: center; 
+}
+
+.blog-links {
+    font-size: 30pt; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    text-align: center; 
+    text-shadow: 5px 5px 5px #f5f5dc; 
+    color: white;
 }
