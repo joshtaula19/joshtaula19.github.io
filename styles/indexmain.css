@@ -71,7 +71,8 @@ ul {
 }
 
 .btn {
-    display: inline-block; 
+    display: block; 
+    margin: auto; 
     text-decoration: none; 
     border-radius: 9999px;
 }
