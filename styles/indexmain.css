@@ -101,3 +101,10 @@ ul {
     padding: 400px 0px 400px 0px; 
     text-align: center; 
 }
+
+.biopics {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    border-radius: 20%; 
+}
