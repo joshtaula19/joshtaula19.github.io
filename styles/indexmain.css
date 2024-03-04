@@ -38,7 +38,7 @@ h1 {
 
 .brown-background {
     background-color: #9b836d;
-    padding: 25px 0px 25px 0px; 
+    padding: 400px 0px 400px 0px; 
 }
 
 .bio {
@@ -57,7 +57,7 @@ h2 {
     font-style: italic; 
     text-align: center; 
     text-shadow: 5px 5px 5px #f5f5dc; 
-    color: black;
+    color: white;
 }
 
 #about-me {
@@ -100,11 +100,4 @@ ul {
     background-color: #9b836d;
     padding: 400px 0px 400px 0px; 
     text-align: center; 
-}
-
-.biopics {
-    display: block; 
-    margin-left: auto; 
-    margin-right: auto; 
-    border-radius: 20%; 
 }
