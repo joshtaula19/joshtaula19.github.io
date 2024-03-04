@@ -53,7 +53,8 @@ h1 {
 
 .brown-background {
     background-color: #9b836d;
-    padding: 400px 0px 400px 0px; 
+    padding-top: 113px; 
+    padding-bottom: 113px;
     margin: -15px;
 }
 
@@ -63,6 +64,8 @@ h1 {
     font-weight: bold;
     font-style: italic; 
     font-size: 20pt;
+    margin-top: 100px; 
+    margin-bottom: 100px; 
 }
 
 
