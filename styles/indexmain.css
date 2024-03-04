@@ -56,7 +56,7 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
     text-align: center; 
-    text-shadow: 5px 5px 5px #f5f5dc; 
+    text-shadow: 5px 5px 5px black; 
     color: white;
 }
 
@@ -65,8 +65,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
     font-size: 20pt; 
-    background-color: #f5f5dc;
-    padding: 600px 0px 600px 0px;
 }
 
 ul {
@@ -110,6 +108,11 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
     text-align: center; 
-    text-shadow: 5px 5px 5px #f5f5dc; 
+    text-shadow: 5px 5px 5px black; 
     color: white;
+}
+
+.br-abt {
+    background-color: #f5f5dc;
+    padding: 600px 0px 600px 0px;
 }
