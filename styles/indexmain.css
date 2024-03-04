@@ -84,6 +84,7 @@ ul {
     padding-bottom: var(--space-md);
     padding-left: var(--space-base); 
     padding-right: var(--space-base);
+    color: black;
 }
 
 .btn-outline {
