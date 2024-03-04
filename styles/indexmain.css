@@ -144,3 +144,13 @@ ol {
     font-style: italic;  
     font-size: 10pt;    
 }
+
+.lizard {
+    float: right; 
+    border-radius: 20%; 
+}
+
+.zelda {
+    float: right; 
+    border-radius: 20%
+}
