@@ -39,6 +39,7 @@ h1 {
 .brown-background {
     background-color: #9b836d;
     padding: 400px 0px 400px 0px; 
+    width: 100%
 }
 
 .bio {
@@ -64,7 +65,9 @@ h2 {
     color: black; 
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
-    font-size: 20pt; 
+    font-size: 30pt;
+    text-shadow: 5px 5px 5px white; 
+    text-align: center;
 }
 
 ul {
@@ -89,7 +92,7 @@ ul {
     padding-left: var(--space-base); 
     padding-right: var(--space-base);
     color: white;
-    text-shadow: 5px 5px 5px #f5f5dc;
+    text-shadow: 5px 5px 5px black;
 }
 
 .btn-outline {
@@ -114,5 +117,27 @@ ul {
 
 .br-abt {
     background-color: #f5f5dc;
-    padding: 600px 0px 600px 0px;
+    padding: 200px 0px 600px 0px;
+}
+
+.fun-facts {
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    font-size: 20pt;
+}
+
+.v-games {
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    font-size: 20pt;
+    text-align: right; 
+}
+
+ol {
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;     
+    text-align: right;
 }
