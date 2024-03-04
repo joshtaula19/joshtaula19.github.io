@@ -39,7 +39,7 @@ h1 {
 .brown-background {
     background-color: #9b836d;
     padding: 400px 0px 400px 0px; 
-    width: 100%
+    width: 100%;
 }
 
 .bio {
@@ -106,6 +106,7 @@ ul {
     background-color: #9b836d;
     padding: 400px 0px 400px 0px; 
     text-align: center; 
+    margin: -15px;
 }
 
 #blog-links {
@@ -120,6 +121,7 @@ ul {
 .br-abt {
     background-color: #f5f5dc;
     padding: 200px 0px 600px 0px;
+    margin: -15px;
 }
 
 .fun-facts {
@@ -161,6 +163,7 @@ ol {
 .socials {
     background-color: #9b836d;
     padding: 10px 0px 10px 0px;
+    margin: -15px;
 }
 
 #soso1 {
