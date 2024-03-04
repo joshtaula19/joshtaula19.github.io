@@ -92,6 +92,8 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;  
     font-size: 15pt;    
+    display: inline-block; 
+    text-align: left; 
 }
 
 .btn {
@@ -148,6 +150,7 @@ ul {
     text-decoration-line: underline; 
     font-weight: bold;
     padding: 0px 0px 0px 30px; 
+    text-align: center;
 }
 
 .v-games {
@@ -159,6 +162,7 @@ ul {
     text-decoration-line: underline; 
     font-weight: bold;
     padding: 0px 0px 0px 30px; 
+    text-align: center; 
 }
 
 ol {
@@ -166,16 +170,16 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;  
     font-size: 15pt;    
+    display: inline-block; 
+    text-align: left; 
 }
 
-.lizard {
-    float: right; 
+.lizard { 
     display: block; 
     border-radius: 20%; 
 }
 
-.zelda {
-    float: right; 
+.zelda { 
     display: block; 
     border-radius: 20%
 }
