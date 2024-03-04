@@ -128,6 +128,7 @@ ul {
     font-style: italic; 
     font-size: 20pt;
     text-decoration-line: underline; 
+    font-weight: bold;
 }
 
 .v-games {
@@ -137,6 +138,7 @@ ul {
     font-style: italic; 
     font-size: 20pt;
     text-decoration-line: underline; 
+    font-weight: bold;
 }
 
 ol {
