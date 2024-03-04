@@ -46,7 +46,7 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-style: italic; 
-    padding: 25px 0px 25px 0px;
+    padding: 600px 0px 600px 0px;
     background-color: #f5f5dc;
 }
 
@@ -98,6 +98,6 @@ ul {
 
 .btn-background {
     background-color: #9b836d;
-    padding: 25px 0px 25px 0px; 
+    padding: 400px 0px 400px 0px; 
     text-align: center; 
 }
