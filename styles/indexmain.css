@@ -47,7 +47,9 @@ h1 {
     font-weight: bold;
     font-style: italic; 
     padding: 25px 25px 0px 0px;
+    background-color: #f5f5dc;
 }
+
 
 h2 {
     font-size: 30pt; 
@@ -72,7 +74,7 @@ ul {
 }
 
 .btn {
-    display: block; 
+    display: inline-block; 
     margin: auto; 
     text-decoration: none; 
     border-radius: 9999px;
@@ -97,4 +99,5 @@ ul {
 .btn-background {
     background-color: #9b836d;
     padding: 25px 25px 0px 0px; 
+    text-align: center; 
 }
