@@ -152,11 +152,13 @@ ol {
 
 .lizard {
     float: right; 
+    display: block; 
     border-radius: 20%; 
 }
 
 .zelda {
     float: right; 
+    display: block; 
     border-radius: 20%
 }
 
