@@ -161,5 +161,16 @@ ol {
 .socials {
     background-color: #9b836d;
     padding: 150px 0px 150px 0px;
+}
 
+.soso1 {
+    display: flex; 
+    justify-content: center; 
+    align-items:center; 
+}
+
+.soso2 {
+    display: flex; 
+    justify-content: center; 
+    align-items:center; 
 }
