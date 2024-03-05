@@ -2,7 +2,7 @@
  body {
      background-color: #f5f5dc;
      margin-right: 0px; 
-     margin-left: 0px; 
+     margin-left: 5px; 
      margin-top: 0px; 
      margin-bottom: 0px;
  }
@@ -36,6 +36,8 @@ h3 {
     background-color: #9b836d;
     padding-top: 1px; 
     padding-bottom: 1px;
+    padding-left: 5px; 
+    margin-left: -5px; 
     height: auto; 
     width: auto; 
 }
