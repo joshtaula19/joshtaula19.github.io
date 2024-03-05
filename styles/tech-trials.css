@@ -10,8 +10,9 @@ padding-right: 30px;
 
 }
 .span-box {
-    display: inline-block; 
+    display: block; 
     width: 100px; 
     height: 100px; 
     padding: 5px;
 }
+
