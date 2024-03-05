@@ -43,8 +43,7 @@ h1 {
     margin-left: auto; 
     margin-right: auto; 
     border-radius: 50%;
-    width: auto; 
-    height: auto; 
+    width: auto;  
   }
 
 .biopics {
@@ -55,7 +54,6 @@ h1 {
     padding-top: 10px; 
     padding-bottom: 10px; 
     width: auto; 
-    height: auto;
 }
 
 .brown-background {
@@ -189,7 +187,6 @@ ol.gameslist {
     margin-right: auto; 
     border-radius: 20%; 
     width: auto; 
-    height: auto;
 }
 
 .zelda { 
@@ -198,7 +195,6 @@ ol.gameslist {
     margin-right: auto; 
     border-radius: 20%;
     width: auto; 
-    height: auto; 
 }
 
 .socials {
