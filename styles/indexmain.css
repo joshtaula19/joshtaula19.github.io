@@ -122,7 +122,8 @@ ul {
 
 .btn-background {
     background-color: #9b836d;
-    padding: 400px 0px 400px 0px; 
+    padding-top: 113px; 
+    padding-bottom: 113px;
     text-align: center; 
     margin: -15px;
 }
