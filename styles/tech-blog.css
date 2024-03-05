@@ -54,8 +54,8 @@ h3 {
 
 .brn-background {
     background-color: #9b836d;
-    padding-top: 113px; 
-    padding-bottom: 113px;
+    padding-top: 1px; 
+    padding-bottom: 1px;
     height: auto; 
     width: auto; 
 }
@@ -70,4 +70,8 @@ h4 {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic; 
+}
+
+.white-text {
+color: white
 }
