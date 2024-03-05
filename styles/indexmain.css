@@ -87,16 +87,6 @@ h2 {
     text-align: center;
 }
 
-ul.gameslist {
-    color: black; 
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;  
-    font-size: 15pt;    
-    display: inline-block; 
-    text-align: center; 
-    list-style-position: inside; 
-}
-
 .btn {
     display: inline-block; 
     margin: auto; 
@@ -151,9 +141,18 @@ ul.gameslist {
     font-size: 20pt;
     text-decoration-line: underline; 
     font-weight: bold;
-    padding: 0px 0px 0px 30px; 
     text-align: center;
 }
+
+ul.funlist {
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;  
+    font-size: 15pt;    
+    text-align: center; 
+    list-style-position: inside; 
+}
+
 
 .v-games {
     display: block;
@@ -163,7 +162,6 @@ ul.gameslist {
     font-size: 20pt;
     text-decoration-line: underline; 
     font-weight: bold;
-    padding: 0px 0px 0px 30px; 
     text-align: center; 
 }
 
@@ -182,13 +180,15 @@ ol.gameslist {
     margin-left: auto; 
     margin-right: auto; 
     border-radius: 20%; 
+    padding: 10px 0px 10px 0px
 }
 
 .zelda { 
     display: block;  
     margin-left: auto; 
     margin-right: auto; 
-    border-radius: 20%
+    border-radius: 20%;
+    padding: 10px 0px 10px 0px
 }
 
 .socials {
@@ -198,13 +198,13 @@ ol.gameslist {
 }
 
 #soso1 {
-    display: inline-block; 
+    display: block; 
     margin-left: auto; 
     margin-right: auto; 
 }
 
 #soso2 {
-    display: inline-block; 
+    display: block; 
     margin-left: auto; 
     margin-right: auto; 
 }
