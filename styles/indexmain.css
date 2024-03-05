@@ -26,6 +26,10 @@ body {
     background-color: #f5f5dc;
     width: auto; 
     height: auto; 
+    margin-right: 0px; 
+    margin-left: 0px; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
 }
 
 h1 {
@@ -60,7 +64,6 @@ h1 {
     background-color: #9b836d;
     padding-top: 113px; 
     padding-bottom: 113px;
-    margin: -15px;
     height: auto; 
     width: auto; 
 }
@@ -123,7 +126,6 @@ h2 {
     padding-top: 113px; 
     padding-bottom: 113px;
     text-align: center; 
-    margin: -15px;
     width: auto; 
     height: auto; 
 }
@@ -199,7 +201,6 @@ ol.gameslist {
 .socials {
     background-color: #9b836d;
     padding: 10px 0px 10px 0px;
-    margin: -15px;
 }
 
 #soso1 {

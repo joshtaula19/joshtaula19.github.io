@@ -46,3 +46,11 @@ h3 {
 .about-dib {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.brn-background {
+    background-color: #9b836d;
+    padding-top: 113px; 
+    padding-bottom: 113px;
+    height: auto; 
+    width: auto; 
+}
