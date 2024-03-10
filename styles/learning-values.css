@@ -61,3 +61,54 @@ h2 {
     text-align: center;
     text-shadow: 5px 5px 5px white;
 }
+
+@media (max-width: 320px) {
+
+    h2 {
+        font-size: 30pt;
+    }
+    .white-head {
+        font-size: 15pt; 
+    }
+    .white-text {
+        font-size: 10pt; 
+    }
+    .black-text {
+        font-size: 10pt; 
+    }
+}
+
+@media (max-width: 770px) {
+
+    h2 {
+        font-size: 40pt;
+    }
+    .white-head {
+        font-size: 15pt; 
+    }
+    .white-text {
+        font-size: 10pt; 
+    }
+    .black-text {
+        font-size: 10pt; 
+    }
+
+}
+
+@media (max-width: 1400px) {
+
+    h2 {
+        font-size: 50pt;
+    }
+
+    .white-head {
+        font-size: 20pt; 
+    }
+    .white-text {
+        font-size: 15pt; 
+    }
+    .black-text {
+        font-size: 15pt; 
+    }
+
+}

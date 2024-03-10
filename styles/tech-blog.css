@@ -78,3 +78,39 @@ p {
 .white-text {
 color: white
 }
+
+
+@media (max-width: 320px) {
+
+    h1 {
+        font-size: 30pt;
+    }
+
+    h2 {
+        font-size: 25pt; 
+    }
+}
+
+@media (max-width: 770px) {
+
+    h1 {
+        font-size: 40pt;
+    }
+
+    h2 {
+        font-size: 25pt; 
+    }
+}
+
+@media (max-width: 1400px) {
+
+    h1 {
+        font-size: 50pt;
+    }
+
+    h2 {
+        font-size: 30pt; 
+    }
+}
+
+
