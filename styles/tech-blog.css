@@ -80,7 +80,7 @@ color: white
 }
 
 
-@media (max-width: 320px) {
+@media (min-width: 300px) {
 
     h1 {
         font-size: 30pt;
@@ -91,7 +91,7 @@ color: white
     }
 }
 
-@media (max-width: 770px) {
+@media (min-width: 700px) {
 
     h1 {
         font-size: 40pt;
@@ -102,7 +102,7 @@ color: white
     }
 }
 
-@media (max-width: 1400px) {
+@media (min-width: 1200px) {
 
     h1 {
         font-size: 50pt;

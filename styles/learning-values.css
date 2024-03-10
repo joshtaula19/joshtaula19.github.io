@@ -62,7 +62,7 @@ h2 {
     text-shadow: 5px 5px 5px white;
 }
 
-@media (max-width: 320px) {
+@media (min-width: 300px) {
 
     h2 {
         font-size: 30pt;
@@ -78,7 +78,7 @@ h2 {
     }
 }
 
-@media (max-width: 770px) {
+@media (min-width: 700px) {
 
     h2 {
         font-size: 40pt;
@@ -95,7 +95,7 @@ h2 {
 
 }
 
-@media (max-width: 1400px) {
+@media (min-width: 1200px) {
 
     h2 {
         font-size: 50pt;
