@@ -89,6 +89,10 @@ color: white
     h2 {
         font-size: 25pt; 
     }
+
+    img {
+        max-width: 100%; 
+    }
 }
 
 @media (min-width: 700px) {
@@ -100,6 +104,10 @@ color: white
     h2 {
         font-size: 25pt; 
     }
+
+    img {
+        max-width: 100%; 
+    }
 }
 
 @media (min-width: 1200px) {
@@ -110,6 +118,10 @@ color: white
 
     h2 {
         font-size: 30pt; 
+    }
+
+    img {
+        max-width: 100%; 
     }
 }
 
