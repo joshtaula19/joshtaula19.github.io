@@ -108,6 +108,10 @@ color: white
     .big-image {
         max-width: 100%; 
     }
+
+    .piccys {
+        max-width: 100%
+    }
 }
 
 @media (min-width: 700px) {
@@ -123,6 +127,10 @@ color: white
     .big-image {
         max-width: 100%; 
     }
+
+    .piccys {
+        max-width: 100%
+    }
 }
 
 @media (min-width: 1200px) {
@@ -137,6 +145,10 @@ color: white
 
     .big-image {
         max-width: 100%; 
+    }
+
+    .piccys {
+        max-width: 100%
     }
 }
 
